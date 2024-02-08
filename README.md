@@ -1,4 +1,8 @@
-### Hi there 👋
+## 👋 Hi there, I'm Nabin Bhusal
+
+Welcome to my Github profile!
+
+I'm a passionate Software Engineer with a knack for solving complex problems and building scalable, efficient software solutions. With a background in Full-Stack Web Development, I've dedicated myself to mastering the art and science of coding, always striving to stay ahead in the technology curve.
 
 <!--
 **er-nabin-bhusal/er-nabin-bhusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
